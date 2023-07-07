@@ -11,5 +11,6 @@ def luas_persegi_panjang():
     l = int(input("masukkan lebar: "))
     luas = p*l
     print ("luas persegi panjang adalah: ", luas)
+    print("ini tambahan dari otvgsapto")
 
 luas_persegi_panjang()
