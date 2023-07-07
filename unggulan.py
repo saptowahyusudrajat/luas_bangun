@@ -1,0 +1,1 @@
+print("Ini fitur unggulan tapi masih versi alfa")
